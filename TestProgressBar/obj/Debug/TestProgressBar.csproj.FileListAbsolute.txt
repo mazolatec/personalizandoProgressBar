@@ -11,3 +11,16 @@ C:\0ProjetoMazola\VerticalProgressBar\TestProgressBar\obj\Debug\TestProgressBar.
 C:\0ProjetoMazola\VerticalProgressBar\TestProgressBar\obj\Debug\TestProgressBar.csproj.CopyComplete
 C:\0ProjetoMazola\VerticalProgressBar\TestProgressBar\obj\Debug\TestProgressBar.exe
 C:\0ProjetoMazola\VerticalProgressBar\TestProgressBar\obj\Debug\TestProgressBar.pdb
+D:\Users\Mazola\Downloads\VerticalProgressBar\TestProgressBar\bin\Debug\TestProgressBar.exe.config
+D:\Users\Mazola\Downloads\VerticalProgressBar\TestProgressBar\bin\Debug\TestProgressBar.exe
+D:\Users\Mazola\Downloads\VerticalProgressBar\TestProgressBar\bin\Debug\TestProgressBar.pdb
+D:\Users\Mazola\Downloads\VerticalProgressBar\TestProgressBar\bin\Debug\VerticalProgressBar.dll
+D:\Users\Mazola\Downloads\VerticalProgressBar\TestProgressBar\bin\Debug\VerticalProgressBar.pdb
+D:\Users\Mazola\Downloads\VerticalProgressBar\TestProgressBar\obj\Debug\TestProgressBar.csprojAssemblyReference.cache
+D:\Users\Mazola\Downloads\VerticalProgressBar\TestProgressBar\obj\Debug\TestProgressBar.Form1.resources
+D:\Users\Mazola\Downloads\VerticalProgressBar\TestProgressBar\obj\Debug\TestProgressBar.Properties.Resources.resources
+D:\Users\Mazola\Downloads\VerticalProgressBar\TestProgressBar\obj\Debug\TestProgressBar.csproj.GenerateResource.cache
+D:\Users\Mazola\Downloads\VerticalProgressBar\TestProgressBar\obj\Debug\TestProgressBar.csproj.CoreCompileInputs.cache
+D:\Users\Mazola\Downloads\VerticalProgressBar\TestProgressBar\obj\Debug\TestProgressBar.csproj.CopyComplete
+D:\Users\Mazola\Downloads\VerticalProgressBar\TestProgressBar\obj\Debug\TestProgressBar.exe
+D:\Users\Mazola\Downloads\VerticalProgressBar\TestProgressBar\obj\Debug\TestProgressBar.pdb
