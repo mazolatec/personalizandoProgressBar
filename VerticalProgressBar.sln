@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProgressBar", "TestProg
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorProgressBarExample", "..\ColorProgressBarExample\ColorProgressBarExample\ColorProgressBarExample.csproj", "{D3E4C66D-EE5B-46FF-9222-6F1B925B5741}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorProgressBar", "..\ColorProgressBar\ColorProgressBar.csproj", "{A7A170C5-C571-4294-82D4-50FFC8277E92}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{D3E4C66D-EE5B-46FF-9222-6F1B925B5741}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D3E4C66D-EE5B-46FF-9222-6F1B925B5741}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D3E4C66D-EE5B-46FF-9222-6F1B925B5741}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7A170C5-C571-4294-82D4-50FFC8277E92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7A170C5-C571-4294-82D4-50FFC8277E92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7A170C5-C571-4294-82D4-50FFC8277E92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7A170C5-C571-4294-82D4-50FFC8277E92}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
